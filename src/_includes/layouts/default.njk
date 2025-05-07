@@ -1,0 +1,24 @@
+---
+title: Octopus Maps Project
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/styles/index.css">
+  </head>
+  <body class="font-poppins bg-neutral-content">
+    <header>
+      {% include "nav.html" %}
+    </header>
+    <main>
+      {{ content | safe }}
+    </main>
+    <footer>
+      {% include "footer.html" %}
+    </footer>
+  </body>
+</html>
