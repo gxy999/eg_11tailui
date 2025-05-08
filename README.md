@@ -1,6 +1,9 @@
 # eg_11tailui
 This is a starter kit for [11ty](https://www.11ty.dev/) with [tailwindcss](https://tailwindcss.com/) and [daisyui](https://daisyui.com/). You'll need the latest version of [nodejs](https://nodejs.org) to get started.
 
+## Demo
+You can view a [live demo](https://ericyork.github.io/eg_11tailui-dist/) of the starter kit.
+
 ## To use
 1. Download or clone the repository
 2. In the terminal: `npm install` to download the dependencies
