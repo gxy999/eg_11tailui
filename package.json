@@ -1,15 +1,15 @@
 {
   "name": "eg_11tailui",
   "version": "1.0.0",
-  "description": "",
+  "description": "A starter kit for 11ty, using tailwindcss and daisyui",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "eleventy --serve",
     "build": "eleventy"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["starter kit", "11ty", "tailwindcss", "daisyui"],
+  "author": "Eric York",
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
