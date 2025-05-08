@@ -4,7 +4,7 @@
 /* @plugin "daisyui"; */
 
 @plugin "daisyui" {
-  themes: corporate --default, business --prefersdark;
+  themes: light --default, dark --prefersdark;
 }
 
 @layer base {

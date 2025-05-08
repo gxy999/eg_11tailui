@@ -3,7 +3,7 @@ layout: layouts/default.njk
 title: Home page
 ---
 
-<section class="hero container mx-auto bg-base-200 my-10 py-10">
+<section class="hero rounded-box container mx-auto bg-base-100 my-10 py-10">
   <div class="hero-content flex-col lg:flex-row">
     <img
       src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp"
@@ -20,8 +20,8 @@ title: Home page
   </div>
 </section>
 
-<section class="container mx-auto grid grid-cols sm:grid-cols-2 md:grid-cols-3 gap-5 py-10 mt-6">
-  <div class="card card-border bg-base-200">
+<section class="container mx-auto grid grid-cols sm:grid-cols-2 md:grid-cols-3 gap-5 my-10">
+  <div class="card card-border bg-base-100">
     <div class="card-body">
       <h2 class="card-title">Card Title</h2>
       <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
@@ -30,7 +30,7 @@ title: Home page
       </div>
     </div>
   </div>
-  <div class="card card-border bg-base-200">
+  <div class="card card-border bg-base-100">
     <div class="card-body">
       <h2 class="card-title">Card Title</h2>
       <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
@@ -39,7 +39,7 @@ title: Home page
       </div>
     </div>
   </div>
-  <div class="card card-border bg-base-200">
+  <div class="card card-border bg-base-100">
     <div class="card-body">
       <h2 class="card-title">Card Title</h2>
       <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
@@ -50,7 +50,7 @@ title: Home page
   </div>
 </section>
 <section class="container mx-auto my-10">
-  <ul class="list bg-base-200 rounded-box shadow-md">
+  <ul class="list bg-base-100 rounded-box shadow-md">
     <li class="p-4 pb-2 text-xs opacity-60 tracking-wide">Most played songs this week</li>
     <li class="list-row">
       <div><img class="size-10 rounded-box" src="https://img.daisyui.com/images/profile/demo/1@94.webp"/></div>
