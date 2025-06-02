@@ -10,7 +10,7 @@ title: Home page
       class="max-w-sm rounded-lg shadow-2xl"
     />
     <div class="prose">
-      <h1 class="text-5xl font-bold">Box Office News hello!</h1>
+      <h1 class="text-5xl font-bold">Box Office News!</h1>
       <p>
         Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
         quasi. In deleniti eaque aut repudiandae et a id nisi.
